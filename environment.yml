@@ -17,4 +17,5 @@ dependencies:
       - tensorflow==2.0.0
       - tensorflow-hub==0.9.0
       - fasttext==0.9.1
+      - matplotlib==3.3.2
 prefix: /anaconda3/envs/mtg
